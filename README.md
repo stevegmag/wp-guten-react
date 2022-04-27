@@ -1,4 +1,4 @@
-![SteveG](sg-readme-icons/SteveG-transparent.png)
+<img rec="sg-readme-icons/SteveG-transparent.png" width="200" />
 
 ---
 
