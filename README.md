@@ -1,4 +1,4 @@
-![SteveG](sg-readme-icons/SteveG-bigcopy.png)
+![SteveG](sg-readme-icons/SteveG-transparent.png)
 
 ---
 
