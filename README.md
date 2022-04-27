@@ -9,7 +9,7 @@
 ## Running WP on ~~MAMP~~ LOCAL:
 
 - [GitHub: stevegmag / wp-guten-react](https://github.com/stevegmag/wp-guten-react)
-- (Setting up WP on Local)[https://quadlayers.com/install-wordpress-locally/]
+- [Setting up WP on Local](https://quadlayers.com/install-wordpress-locally/)
 - wp-guten-react.local
 - admin user: stevegmag : A!!...
 - path: \_\_Jellyfish/\_\_mamp_dev\_\_/wp-guten-react/
