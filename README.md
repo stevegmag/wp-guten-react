@@ -1,4 +1,4 @@
-<img rec="sg-readme-icons/SteveG-transparent.png" width="200" />
+<img src="sg-readme-icons/SteveG-transparent.png" width="200" />
 
 ---
 
