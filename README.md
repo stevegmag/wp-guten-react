@@ -1,7 +1,7 @@
-<img src="sg-readme-icons/SteveG-transparent.png" style="display: inline; width: 200px" />
+<div style="width: 100vw; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-evenly;"><img src="sg-readme-icons/SteveG-transparent.png" style="display: inline; width: 200px" />
 <img src="sg-readme-icons/wordpress.png" style="display: inline; width: 200px" />
 <img src="sg-readme-icons/react.svg" style="display: inline; width: 200px" />
-
+</div>
 ---
 
 # Create a Wordpress Gutenberg-Block with all React-lifecycle methods
