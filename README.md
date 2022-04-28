@@ -9,7 +9,7 @@
 ## Running WP on ~~MAMP~~ LOCAL:
 
 - [GitHub: stevegmag / wp-guten-react](https://github.com/stevegmag/wp-guten-react)
-- [Setting up WP on Local](https://quadlayers.com/install-wordpress-locally/)
+- [Setting up WP on Localwp](https://quadlayers.com/install-wordpress-locally/)
 - wp-guten-react.local
 - admin user: stevegmag : A!!...
 - path: \_\_Jellyfish/\_\_mamp_dev\_\_/wp-guten-react/
@@ -39,3 +39,11 @@
 - Install WP [wp.org support topic](https://wordpress.org/support/article/how-to-install-wordpress/)
 - create-guten-block [github project](https://github.com/ahmadawais/create-guten-block)
 - configure component (dev.to tutorial) (this seems out of date)
+
+
+## TODO:  
+
+- Get Plugins actually working in Localwp
+- Switch from Localwp to Mamp and get plugins working
+- Consume the sg-news api
+- create/Setup Plugin to setup GraphQL calls to apis and display simple results

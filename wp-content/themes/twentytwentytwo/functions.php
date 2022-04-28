@@ -149,3 +149,22 @@ add_action( 'wp_head', 'twentytwentytwo_preload_webfonts' );
 
 // Add block patterns
 require get_template_directory() . '/inc/block-patterns.php';
+
+//  Adding action to include custom gutenberg - react block
+add_action( 'init', function() {
+$args = array(
+'public' => true,
+'label' => 'react-lifecycle-block — CGB Block',
+'show_in_rest' => true,
+'template_lock' => 'all',
+'template' => array(
+array( 'core/paragraph', array(
+'placeholder' => 'React Block',
+) ),
+array( 'core/image', array(
+'align' => 'right',
+) ),
+),
+);
+register_block_type( 'cgb_block', $args );
+} );
